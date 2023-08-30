@@ -8,8 +8,8 @@ const PersonCard = (props) => {
             <h2>Things I need to do:</h2>
             <p>* Learn React</p>
             <p>* Do laundry</p>
-            <p>* Run a to grocery store</p>
-            <p>* Feed the cats</p>
+            <p>* Run to grocery store</p>
+            <p>* Feed the cats and cows</p>
             
         </div>
     );
